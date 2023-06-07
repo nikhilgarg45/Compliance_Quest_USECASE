@@ -1,5 +1,4 @@
 public class SQX_CaseTriggerHandler {
-    public static Boolean flag_VARIABLE=true;
     private static final String CASE_TYPE='Problem';
     private static final String CASE_STATUS_ESCALATED='Escalated';
     private static final String CASE_STATUS_NEW='NEW';
